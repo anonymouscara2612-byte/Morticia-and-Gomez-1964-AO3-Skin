@@ -801,7 +801,7 @@ ul.tags li a:before {
 h5.fandoms.heading a.tag {
   border: none !important;
   box-shadow: none !important;
-  color: #878787 !important;
+  color: #EDEBEB !important;
 }
 
 .commas li:after {
@@ -816,7 +816,7 @@ a.tag:hover {
 h2 a.tag {
   border: none !important;
   box-shadow: none !important;
-  color: #878787 !important;
+  color: #EDEBEB !important;
 }
 
 ul.tags li.warnings,
